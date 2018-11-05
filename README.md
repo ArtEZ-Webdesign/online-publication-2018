@@ -42,3 +42,9 @@ The assignment will run for the second half of the first semester. You are invit
 -	Poetic Computation: Reader
 -	New York Times, Guardian, Volkskrant, NRC longreads
 -	Bloomberg: What is Code?
+
+## Class Notes
+### Week 1
+
+- https://srebrenica.vpro.nl/
+- http://loveradio-rwanda.org/
